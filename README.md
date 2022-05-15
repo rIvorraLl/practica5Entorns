@@ -124,6 +124,8 @@ Creamos una nueva clase donde implementaremos los tests para comprobar los méto
 
 ![20220515_21h40m05s_grim](https://user-images.githubusercontent.com/91564852/168491058-3e94d48e-9f89-45a2-95cb-e2525505402c.png)
 
+La ejecución de los tests nos muestra un resultado 100% exitoso, algo esperable dada la sencillez del código.
+
 - Y ya solo resta actualizar el repositorio de GitHub con el nuevo código, además de las etiquetas de versionado semántico correspondientes.
 
  ```bash
