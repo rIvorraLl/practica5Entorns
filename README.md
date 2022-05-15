@@ -55,7 +55,7 @@ public interface iCalculadora {
 }
 ```
 
-Y la clase que implementa los métodos de la interficie, Calculadora.
+- Y la clase que implementa los métodos de la interficie, Calculadora.
 
 ```java
 package com.entorns.practica5;
@@ -112,7 +112,7 @@ public class Calculadora implements iCalculadora {
 }
 ```
 
-Actualizamos el repositorio añadiendo las clases anteriores a través de la siguiente secuencia en la interfaz de línea de comandos:
+- Actualizamos el repositorio añadiendo las clases anteriores a través de la siguiente secuencia en la interfaz de línea de comandos:
 
 ```bash
 git add --all
@@ -124,4 +124,4 @@ Creamos una nueva clase donde implementaremos los tests para comprobar los méto
 
 ![20220515_21h40m05s_grim](https://user-images.githubusercontent.com/91564852/168491058-3e94d48e-9f89-45a2-95cb-e2525505402c.png)
 
-Y ya solo resta actualizar el repositorio de GitHub con el nuevo código, además de las etiquetas de versionado semántico correspondientes.
+- Y ya solo resta actualizar el repositorio de GitHub con el nuevo código, además de las etiquetas de versionado semántico correspondientes.
