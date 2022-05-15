@@ -112,3 +112,15 @@ public class Calculadora implements iCalculadora {
 }
 ```
 
+Actualizamos el repositorio añadiendo las clases anteriores a través de la siguiente secuencia en la interfaz de línea de comandos:
+
+```bash
+git add --all
+git commit -am "Primer commit"
+git push --set-upstream origin main
+```
+
+Creamos una nueva clase donde implementaremos los tests para comprobar los métodos de la calculadora. Para ello emplearemos el *framework* de *testing* JUnit 4. Una vez escritos los métodos de prueba, los ejecutamos a través de nuestro IDE (Eclipse):
+
+![20220515_21h40m05s_grim](https://user-images.githubusercontent.com/91564852/168491058-3e94d48e-9f89-45a2-95cb-e2525505402c.png)
+
