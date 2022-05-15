@@ -131,3 +131,7 @@ Creamos una nueva clase donde implementaremos los tests para comprobar los méto
  git commit -am "Test units"
  git push
  ```
+- Diagrama de commits y ramas:
+
+![Screenshot from 2022-05-15 22-42-46](https://user-images.githubusercontent.com/91564852/168493034-22ee8c16-da32-49de-aa69-b0108535e0ec.png)
+
