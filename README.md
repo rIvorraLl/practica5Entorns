@@ -9,7 +9,7 @@
 
 ![20220515_20h02m37s_grim](https://user-images.githubusercontent.com/91564852/168487273-63b0f02e-4e9f-4e90-930a-126ce54f334b.png)
 
-- Pasamos a implementar la interficie iCalculadora.
+- Pasamos a implementar la interficie iCalculadora, donde indicaremos los métodos a implementar por la(s) clase(s) que implementen dicha interficie.
 
 ```java
 
