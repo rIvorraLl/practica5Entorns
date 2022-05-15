@@ -1,4 +1,4 @@
-# pPráctica 5 - Entornos de desarrollo
+# Práctica 5 - Entornos de desarrollo
 
 ## Josep Maria Castell y Rafael Ivorra
 
